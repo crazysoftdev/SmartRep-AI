@@ -99,10 +99,3 @@ We welcome contributions to enhance SmartRep AI. Please fork the repository and 
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a pull request
 
-## License
-
-SmartRep AI is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For support or inquiries, please contact us at jeff.jiang13@gmail.com.
